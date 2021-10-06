@@ -1,0 +1,10 @@
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\obj\Debug\twitterHkBot.csprojAssemblyReference.cache
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\obj\Debug\twitterHkBot.csproj.CoreCompileInputs.cache
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\bin\Debug\twitterHkBot.exe.config
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\bin\Debug\twitterHkBot.exe
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\bin\Debug\twitterHkBot.pdb
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\bin\Debug\WebDriver.dll
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\bin\Debug\WebDriver.xml
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\obj\Debug\twitterHkBot.csproj.CopyComplete
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\obj\Debug\twitterHkBot.exe
+C:\Users\hk25\source\repos\twitterHkBot\twitterHkBot\obj\Debug\twitterHkBot.pdb
