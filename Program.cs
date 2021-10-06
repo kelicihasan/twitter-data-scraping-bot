@@ -32,7 +32,6 @@ namespace twitterHkBot
         }
         public static void Connect()
         {
-            System.Media.SystemSounds.Beep.Play();
             Console.Write("Enter Scroll Value :");
             string scValue = Console.ReadLine();
             Console.WriteLine("Connecting.....\n\n");
